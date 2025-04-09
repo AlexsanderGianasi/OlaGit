@@ -1,2 +1,2 @@
 # Ola, Git!
- Primeiro repositorio git e github
+ Esse e o meu primeiro repositorio de git e github.
